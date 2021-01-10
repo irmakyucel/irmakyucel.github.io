@@ -16,7 +16,7 @@ img {
 <ul>
   <li><a href="about.html" title="About Me">About me</a></li>
   <li><a href="projects.html" title="My Projects">My projects</a></li>
-  <li><a href="contact.html"title="Contact me">Contact me</a></li>
+  <li><a href="contact.html" title="Contact me">Contact me</a></li>
 </ul>
 </body>
 </html>
