@@ -14,9 +14,9 @@ img {
 <img src="/IMG_3341 2.jpg" alt="pic" width="100" height="100">
 <p>Welcome to my GitHub website.</p>
 <ul>
-  <li><a href="about.md" title="About Me">About me</a></li>
+  <li><a href="about.html" title="About Me">About me</a></li>
   <li>My projects</li>
-  <li><a href="contact.md">Contact</a></li>
+  <li><a href="contact.html">Contact</a></li>
 </ul>
 </body>
 </html>
