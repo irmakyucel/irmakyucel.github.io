@@ -3,9 +3,17 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+  
 img {
   border-radius: 50%;
 }
+  
+ul.no-bullets {
+list-style-type: none; /* Remove bullets */
+padding: 0; /* Remove padding */
+margin: 0; /* Remove margins */
+}
+
 </style>
 </head>
   
