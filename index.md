@@ -11,7 +11,7 @@ img {
   
 <body>
 <h1>Irmak Yucel</h1>
-<img src="/IMG_3341 2.jpg" alt="pic" width="50" height="50">
+<img src="/IMG_3341 2.jpg" alt="pic" width="100" height="100">
 <p>Welcome to my GitHub website.</p>
 </body>
 </html>
