@@ -12,7 +12,7 @@ img {
 <body>
 <h1>Irmak Yucel</h1>
 <img src="/IMG_3341 2.jpg" alt="pic" width="100" height="100">
-<ul>
+<ul style="list-style-type:none;">
   <li>Email:<a href="mailto:irmak-yucel@hotmail.com"> irmak-yucel@hotmail.com</a></li>
   <li>Phone: (+90) 5395868291</li>
   <li>Adress: Istanbul/Turkey</li>
