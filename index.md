@@ -15,8 +15,8 @@ img {
 <p>Welcome to my GitHub website.</p>
 <ul>
   <li><a href="about.html" title="About Me">About me</a></li>
-  <li>My projects</li>
-  <li><a href="contact.html">Contact</a></li>
+  <li><a href="projects.html" title="My Projects">My projects</a></li>
+  <li><a href="contact.html"title="Contact me">Contact me</a></li>
 </ul>
 </body>
 </html>
