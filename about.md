@@ -12,7 +12,7 @@ img {
 <body>
 <h1>About me</h1>
 <img src="/IMG_3341 2.jpg" alt="pic" width="100" height="100">
-<p>Hello! I am Irmak. Here you can find information about me :) </p>
+<p>Hello! I am Irmak. Here you can find some information about me :) </p>
 <ul>
   <li>Past Education</li>
   <li>Past work experience</li>
