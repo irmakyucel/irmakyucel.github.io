@@ -13,9 +13,9 @@ img {
 <h1>Irmak Yucel</h1>
 <img src="/IMG_3341 2.jpg" alt="pic" width="100" height="100">
 <ul>
-  <li>email:irmak-yucel@hotmail.com</li>
-  <li>phone: 05395868291</li>
-  <li>adress: x</li>
+  <li>Email:<a href="mailto:irmak-yucel@hotmail.com">irmak-yucel@hotmail.com</a></li>
+  <li>Phone:(+90) 5395868291</li>
+  <li>Adress: Istanbul/Turkey</li>
 </ul>
 </body>
 </html>
